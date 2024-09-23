@@ -14,6 +14,7 @@ import ptMessages from './messages/pt.json';
 import ruMessages from './messages/ru.json';
 import ukMessages from './messages/uk.json';
 import zhcnMessages from './messages/zh_CN.json';
+import zhtwMessages from './messages/zh_TW.json';
 // no need to import en messages-- they are in the defaultMessage field
 
 const appMessages = {
@@ -22,6 +23,7 @@ const appMessages = {
   'fa-ir': faIRMessages,
   fr: frMessages,
   'zh-cn': zhcnMessages,
+  'zh-tw': zhtwMessages,
   pt: ptMessages,
   it: itMessages,
   de: deMessages,
